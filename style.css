@@ -1,0 +1,137 @@
+html{
+  background-color:black;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.page-title{
+  text-align:center;
+}
+
+video{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:2px solid orange;
+  border-radius:10px;
+}
+
+h1{
+  color:orange;
+}
+
+h2{
+  color:orange;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding:25px;
+}
+
+h3{
+  color:orange;
+  font-size:x-large;
+  text-align:center;
+}
+
+p{
+  color:orange;
+  text-align:center;
+}
+
+hr{
+  background-color:orange;
+  border:1.5px solid orange;
+  border-radius:5px;
+}
+
+table{
+  color:orange;
+  background-color:orange;
+}
+
+th{
+  padding:10px;
+  background-color:black;
+}
+
+td{
+  padding:10px;
+  background-color:black;
+}
+
+.q1{
+  display:flex;
+  align-items:center;
+  text-align:left;
+  align-content:space-between;
+  padding:20px;
+}
+
+.q2{
+  display:flex;
+  align-items:center;
+  text-align:left;
+  align-content:space-between;
+  padding:20px;
+}
+
+.q3{
+  display:flex;
+  align-items:center;
+  text-align:left;
+  align-content:space-between;
+  padding:20px;
+}
+
+.awards{
+  font-size:xx-large;
+}
+
+#img3{
+  width:50%;
+  border:5px solid orange;
+  border-radius:10px;
+}
+
+#img4{
+  width:47.5%;
+  border:5px solid orange;
+  border-radius:10px;
+}
+
+#img5{
+  width:50%;
+  border:5px solid orange;
+  border-radius:10px;
+}
+
+.awards-title{
+  font-size:x-large;
+  text-align:center;
+}
+
+.awards{
+  display:flex;
+  flex-direction:column;
+  color:orange;
+  font-size:large;
+  align-items:center;
+}
+
+.pc-specs{
+  display:flex;
+  justify-content:space-around;
+  padding:10px;
+  flex-grow:1;
+}
+
+.valvelogo{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:fit-content;
+  height:fit-content;
+  font-size:xx-large;
+  border:5px solid orange;
+  padding-left:12px;
+  padding-right:12px;
+  line-height:1px;
+}
